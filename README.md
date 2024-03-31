@@ -10,6 +10,6 @@ gmail : sai7831@gmail.com
 password : 123456
 
 2)username : raghu 
-gmail : raghu12@gmail.com
-password: 983478
+gmail : raghavendra3456@gmail.com
+password: 123456789
 # I have tried to make this as one app but the unity file is very large to load as an single app so i have decided to make two apps one for the verification of the authentication so and the other provides the augmented reality in which users can use the 3d models to experience ar models.

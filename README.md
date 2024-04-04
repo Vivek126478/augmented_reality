@@ -19,5 +19,6 @@ password : 123456
 gmail : raghavendra3456@gmail.com
 password: 123456789
 # I have tried to make this as one app but the unity file is very large to load as an single app so i have decided to make two apps one for the verification of the authentication so and the other provides the augmented reality in which users can use the 3d models to experience ar models.
-# So for checking the security purpose of the project i will provide the apk for you to test the app.
+# So for checking the security purpose of the project i have provided the apk named app-release so that you can test it.
 # For contact purpose you can mail to me : goguladinne22bcy28@gmail.com mail.For any queries i will respond to the doubts that you have.
+# For experiencing the augmented reality i have added another apk in the augmentedrealityproject file in build there will be an Finalfurniture apk so that you can experience the augmented reality.
